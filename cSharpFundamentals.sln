@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Operators", "03_Operator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Conditionals", "04_Conditionals\04_Conditionals.csproj", "{F25F960A-C376-4248-8098-9F832975CBA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loops", "05_Loops\05_Loops.csproj", "{7578B54F-84BB-4D2C-B71D-2C861A08596F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F25F960A-C376-4248-8098-9F832975CBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F25F960A-C376-4248-8098-9F832975CBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F25F960A-C376-4248-8098-9F832975CBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7578B54F-84BB-4D2C-B71D-2C861A08596F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7578B54F-84BB-4D2C-B71D-2C861A08596F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7578B54F-84BB-4D2C-B71D-2C861A08596F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7578B54F-84BB-4D2C-B71D-2C861A08596F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
